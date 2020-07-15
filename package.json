@@ -1,0 +1,22 @@
+{
+  "name": "azure-functions-javascript",
+  "version": "1.0.0",
+  "description": "Azure JavaScript Function App",
+  "scripts": {
+    "start": "func start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnigunnar/azure-functions-javascript.git"
+  },
+  "author": "cloud-consulting/@arnigunnar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnigunnar/azure-functions-javascript/issues"
+  },
+  "homepage": "https://github.com/arnigunnar/azure-functions-javascript#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "moment": "^2.27.0"
+  }
+}

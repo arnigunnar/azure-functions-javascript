@@ -1,0 +1,12 @@
+{
+  "disabled": false,
+  "bindings": [
+    {
+      "type": "queueTrigger",
+      "direction": "in",
+      "name": "message",
+      "queueName": "myqueue-items",
+      "connection": "MyStorageConnectionAppSetting"
+    }
+  ]
+}
