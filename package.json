@@ -17,6 +17,6 @@
   "homepage": "https://github.com/arnigunnar/azure-functions-javascript#readme",
   "dependencies": {
     "axios": "^0.21.2",
-    "moment": "^2.27.0"
+    "moment": "^2.29.2"
   }
 }
